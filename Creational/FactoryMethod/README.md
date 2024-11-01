@@ -1,5 +1,7 @@
 ﻿# Factory Method 🏭
 
+Referência: [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/factory-method)
+
 Também conhecido como Virtual Constructor.
 
 ## Propósito 🧐
