@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{F06C6D8E-5E86-4BC2-AFE4-78B6C11DB904}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{9AA275C0-C0B4-47EF-AC19-84D9FF3B7FB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{4DD56A97-330D-47C1-AB79-9404C46F146D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Creational\FactoryMethod\FactoryMethod.csproj", "{96140371-D78E-42C1-9EA7-EC7F795F065F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96140371-D78E-42C1-9EA7-EC7F795F065F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96140371-D78E-42C1-9EA7-EC7F795F065F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96140371-D78E-42C1-9EA7-EC7F795F065F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96140371-D78E-42C1-9EA7-EC7F795F065F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96140371-D78E-42C1-9EA7-EC7F795F065F} = {F06C6D8E-5E86-4BC2-AFE4-78B6C11DB904}
+	EndGlobalSection
+EndGlobal
